@@ -1,5 +1,5 @@
 ﻿
-Canales HD
+
 #EXTINF:-1 tvg-id="80306" tvg-name="BHTV" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png", BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109751" tvg-name="Best Cable TV" tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png", Best Cable TV
@@ -27,7 +27,7 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 #EXTINF:-1 tvg-id="104452" tvg-name="CSTV" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", CSTV
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
-Clasicos animados
+
 #EXTINF:-1 tvg-id="45105" tvg-name=" Cachipum TV Series" tvg-logo="http://cachipum.tv/img/logo.png",  Cachipum TV Series
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="47417" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
@@ -35,7 +35,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="110680" tvg-name="Cloud Server Kids" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", Cloud Server Kids
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 
-Noticias
+
 
 #EXTINF:-1 tvg-id="109768" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa
 https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
@@ -54,13 +54,13 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?Playlist
 #EXTINF:-1 tvg-id="83641" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
 
-Deportes
+
 #EXTINF:-1 tvg-id="109753" tvg-name="Best Cable Sports" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports
 https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80325" tvg-name="Ovacion" tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png", Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 
-Peliculas
+
 #EXTINF:-1 tvg-id="101463" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="115395" tvg-name="AC Vision" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", AC Vision
@@ -70,7 +70,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109756" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png", Sol TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR&PlaylistM3UCL
 
-Musica
+
 #EXTINF:-1 tvg-id="109767" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109808" tvg-name="Vision Musica TV" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png", Vision Musica TV
@@ -113,7 +113,7 @@ https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 
 
-Internacional
+
 #EXTINF:-1 tvg-id="110617" tvg-name="NHK World" tvg-logo="https://lh3.googleusercontent.com/-x-S-MRU-WnA/X0Wm577k6mI/AAAAAAAA488/XNXHzIGbuIQOZILV5iMyhUtqchxQ7JRGQCK8BGAsYHg/s0/2020-08-25.png", NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="110617" tvg-name="NHK World ES" tvg-logo="https://lh3.googleusercontent.com/-x-S-MRU-WnA/X0Wm577k6mI/AAAAAAAA488/XNXHzIGbuIQOZILV5iMyhUtqchxQ7JRGQCK8BGAsYHg/s0/2020-08-25.png", NHK World ES
