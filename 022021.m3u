@@ -26,6 +26,24 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-id="230235" tvg-name="Nick Jr. Live" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW2bn08IXNlZzqLdjmElWPgBK8BkcfuX9s5HX0?width=200&height=200, Nick Jr. Live
+https://www.youtube.com/channel/UCaEb7kPgpldLuEzCRzFXsLw/live
+#EXTINF:-1 tvg-id="230228" tvg-name="Pocoyo TV" tvg-logo="https://graph.facebook.com/pocoyo/picture?width=200&height=200", Pocoyo TV
+https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live
+#EXTINF:-1 tvg-id="230229" tvg-name="Peppa Pig TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhepcq1zeYfTC9mA6wtKSF2PciEIJQxynuMPYLNCw?width=200&height=200", Peppa Pig TV
+https://www.youtube.com/channel/UCrreHSUa5rnuCVDeO8dX4eA/live
+#EXTINF:-1 tvg-id="230230" tvg-name="My Little Pony TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniMH9zeuK8IMurI4_Py3wFPV3fyrbwbFCXuOsSt?width=200&height=200", My Little Pony TV
+https://www.youtube.com/channel/UCavwStVQoAroamzC1lPQmyg/live
+#EXTINF:-1 tvg-id="230231" tvg-name="Heroes en Pijamas TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniuN3I40GwpkhBoNeCbqNyXw8OBB75z5BZtd5YP?width=200&height=200", Heroes en Pijamas TV
+https://www.youtube.com/channel/UCls_EBAwd14tA-yRVQmH0Ww/live
+#EXTINF:-1 tvg-id="230232" tvg-name="WB Kids Latino" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngHg7maHJo7DyEKUAt47jjoFwZZR39Ei6-OAcfL?width=200&height=200", WB Kids Latino
+https://www.youtube.com/channel/UCtW5GPO_DZon6zVAuinvwxA/live
+#EXTINF:-1 tvg-id="230233" tvg-name="DC Kids Latino" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj1oJaHF9Xg_AXOy7VeK9DM3IRZ8dXYF2OzuENx?width=200&height=200", DC Kids Latino
+https://www.youtube.com/channel/UCZx5TzdG3RC4CMNmxJLgfRw/live
+#EXTINF:-1 tvg-id="230234" tvg-name="Cartoon Network Live" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZORuu9DZtdAp4W_jAjGk0Yx6b5_fkwr44S3JIwQ?width=200&height=200", Cartoon Network Live
+https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live
+#EXTINF:-1 tvg-id="230227" tvg-name="Power Rangers TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjA0arszEUGSBBpJ9Kq1RQKXsCbKVe_og7jPQM7?width=200&height=200", Power Rangers TV
+https://www.youtube.com/channel/UCHr2zD4qgWz8yXkzIun5aAg/live
 #EXTINF:-1 tvg-id="45105" tvg-name=" Cachipum TV Series" tvg-logo="http://cachipum.tv/img/logo.png",  Cachipum TV Series
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="47417" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
@@ -34,23 +52,34 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 
 
-
 #EXTINF:-1 tvg-id="109768" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa
 https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80401" tvg-name="UCI TV" tvg-logo="http://uci.pe/images/grafica/logouci.png", UCI TV
 http://170.79.102.223/UCI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="109809" tvg-name="Vision Noticias Peru" tvg-logo="https://lh3.googleusercontent.com/-x6xRl_mE6J8/Xz8pEV_GYUI/AAAAAAAA4t0/i75PtogKdwMCHzO09Ns0R1o-V6YOiqHkACK8BGAsYHg/s0/2020-08-20.jpg", Vision Noticias Peru
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="230221" tvg-name="Conecta2" tvg-logo="https://graph.facebook.com/RadioConecta2/picture?width=200&height=200", Conecta2
+https://videoserver.tmcreativos.com:1936/conecta2tv/conecta2tv/chunklist_w968385459.m3u8
+#EXTINF:-1 tvg-id="230222" tvg-name="Radio Uno Tacna" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngNh4MScc0LP2UoZHG5SO_XDgVgvP8OccWG4nyM?width=200&height=200", Radio Uno Tacna
+https://www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA/live
 #EXTINF:-1 tvg-id="83637" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="230223" tvg-name="Euronews" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh8LYxyL6VKfHAGYV0qCJ4hqaWDO5GympC7lRIViw?width=200&height=200, Euronews
+https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT
 https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="230226" tvg-name="RT Español" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng0b3lQKBh8u3SuBdXDNnY3ChTR1d8Y5cBN62IqK74?width=200&height=200", RT Español
+https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ/live
+#EXTINF:-1 tvg-id="230224" tvg-name="France 24" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjzCCU_EOdEE9KWj_Vo9EotZRzxFwlqfbjCQdeu?width=200&height=200", France 24
+https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
 #EXTINF:-1 tvg-id="83638" tvg-name="CGTN Español" tvg-logo="https://lh3.googleusercontent.com/-5Bst2FjJUOo/XbIpHQZPzvI/AAAAAAAArpI/tLHDuXno6jYWed5i08VruJbrM4M8MiiigCK8BGAsYHg/s0/2019-10-24.png", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="83644" tvg-name="RTVE24" tvg-logo="https://lh3.googleusercontent.com/-1mw4WtbxGU8/XbIwxC6NMPI/AAAAAAAArqE/dp61Cx1kuwsSWLwXijprIMQLXG-kWexqACK8BGAsYHg/s0/2019-10-24.png", RTVE24
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="83641" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
+#EXTINF:-1 tvg-id="83641" tvg-name="DW" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="230226" tvg-name="DW Español" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnieLF3GQOlDUM5SshyGkagRCdsnuboi-VbQ0biH?width=200&height=200", DW Español
+https://www.youtube.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA/live
 
 
 #EXTINF:-1 tvg-id="109753" tvg-name="Best Cable Sports" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports
@@ -110,17 +139,9 @@ https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106262" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 tvg-id="110617" tvg-name="NHK World" tvg-logo="https://lh3.googleusercontent.com/-x-S-MRU-WnA/X0Wm577k6mI/AAAAAAAA488/XNXHzIGbuIQOZILV5iMyhUtqchxQ7JRGQCK8BGAsYHg/s0/2020-08-25.png", NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="110617" tvg-name="NHK World ES" tvg-logo="https://lh3.googleusercontent.com/-x-S-MRU-WnA/X0Wm577k6mI/AAAAAAAA488/XNXHzIGbuIQOZILV5iMyhUtqchxQ7JRGQCK8BGAsYHg/s0/2020-08-25.png", NHK World ES
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-id="83643" tvg-name="Arirang" tvg-logo="https://lh3.googleusercontent.com/-EjspQDMJTv8/XbIv0DmeI5I/AAAAAAAArp4/sxviem-Fy9skCw30jz2aykgMXeffZqW_wCK8BGAsYHg/s0/2019-10-24.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
-
