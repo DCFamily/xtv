@@ -43,8 +43,8 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="47418" tvg-name="Anime Zone TV" tvg-logo="https://drive.google.com/file/d/1A13YS8oq-9ZybHURu1YpA0VRWcXGBTCR", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="47419" tvg-name="Kaede TV" tvg-logo="http://www.kanadetv.live/gallery/Branded_Logo_Icon_Only-ts1626819959.png", Kanade TV
-https://stream.animaxla.club/hls/kanade.m3u8
+#EXTINF:-1 tvg-id="47419" tvg-name="Kanede TV" tvg-logo="http://www.kanadetv.live/gallery/Branded_Logo_Icon_Only-ts1626819959.png", Kanade TV
+http://45.32.74.87:81/hls/kanadetv.m3u8
 #EXTINF:-1 tvg-id="110680" tvg-name="Cloud Server Kids" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", Cloud Server Kids
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 
@@ -72,7 +72,7 @@ https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="83638" tvg-name="CGTN Español" tvg-logo="https://lh3.googleusercontent.com/-5Bst2FjJUOo/XbIpHQZPzvI/AAAAAAAArpI/tLHDuXno6jYWed5i08VruJbrM4M8MiiigCK8BGAsYHg/s0/2019-10-24.png", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="83641" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="Chacra TV" tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg", Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
