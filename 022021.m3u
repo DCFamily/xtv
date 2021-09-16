@@ -29,7 +29,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="80303" tvg-name="DMJ TV" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png", DMJ TV
 https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="124237" tvg-name="Star Channel" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg", Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/FXHD-video=1726000.m3u8-audio_20001=144800.m3u8
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="102483" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="102483" tvg-name="Cablemás" tvg-logo="https://pbs.twimg.com/profile_images/951602035362861056/l6LqHiwM_400x400.jpg", Cablemás
