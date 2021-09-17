@@ -60,6 +60,10 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="104454" tvg-name="Hola TV Play" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png", Hola TV
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/05/Favicon-DHE.png" group-title="CINE Y SERIES", DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE Y SERIES", Europa Europa
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE Y SERIES", BUTACA TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TU CINE
@@ -209,6 +213,8 @@ https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="97300" tvg-name="On Radio Kpop" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Kpop
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/415928726862319617/CUxeZ8Ce_400x400.jpeg" group-title="MUSICA", VEVO LATINO
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="MUSICA", VEVO 70'S
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="MUSICA", VEVO 80'S
