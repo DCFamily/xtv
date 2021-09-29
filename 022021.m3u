@@ -90,6 +90,15 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" , Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" , Distrito Comedia
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" , De Pelicula
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" , Azteca Cinema
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", RAKUTEN TV DRAMA
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -120,8 +129,6 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
 #EXTINF:-1 tvg-id="45181" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", History
 http://edge1.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-id="45182" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/220px-History2Logo2019.png", History 2
-https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="45101" tvg-name="Pequeradio TV" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png", Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
