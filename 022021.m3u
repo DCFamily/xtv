@@ -29,27 +29,31 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="80303" tvg-name="DMJ TV" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png", DMJ TV
 https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="124237" tvg-name="Star Channel" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg", Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="124238" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg", FX
-https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1024px-FX-logo.svg.png" , FXM
+https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="124239" tvg-name="AMC" tvg-logo="https://pbs.twimg.com/profile_images/1432784627006066692/Pd3n9j4U_400x400.png", AMC
 https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
+#EXTINF:-1 tvg-id="124240" tvg-name="Cinecanal" tvg-logo="https://pbs.twimg.com/profile_images/1432784627006066692/Pd3n9j4U_400x400.png", Cinecanal
+https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 #EXTINF:-1 tvg-id="124241" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/CanalGoldenlogo.png", Golden
-https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
-#EXTINF:-1 tvg-id="124241" tvg-name="Golden EDGE" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/golden-edge.jpg", Golden EDGE
-https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="124242" tvg-name="Golden EDGE" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2017/08/golden-edge.jpg", Golden EDGE
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="102483" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="102483" tvg-name="Cablemás" tvg-logo="https://pbs.twimg.com/profile_images/951602035362861056/l6LqHiwM_400x400.jpg", Cablemás
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8?PlaylistM3UCL&WebM3UCL
 #EXTINF:-1 tvg-id="102485" tvg-name="Wapp" tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106777" tvg-name="Cosmovisión" tvg-logo="https://lh3.googleusercontent.com/-BK2illtLNdw/Xzgh2FS7TtI/AAAAAAAA4YM/gnbmSqIJG5wCwVJ2gUG0NPQgbo1axWmcwCK8BGAsYHg/s0/2020-08-15.jpg", Cosmovisión
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80342" tvg-name="Mundo +" tvg-logo="https://lh3.googleusercontent.com/-E_i3NMhXprE/XzgiJBP-YeI/AAAAAAAA4YY/htokywgIrT8erB8ThIjJED5hRTUpqwGBwCK8BGAsYHg/s0/2020-08-15.png", Mundo +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80342" tvg-name="TelemaX" tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn.jpg", TelemaX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="83644" tvg-name="Sony Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony Novelas
