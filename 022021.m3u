@@ -134,8 +134,10 @@ https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
 #EXTINF:-1 tvg-id="45181" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", History
 http://edge1.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
 
-#EXTINF:-1 tvg-id="45101" tvg-name="Pequeradio TV" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png", Pequeradio TV
+#EXTINF:-1 tvg-id="45100" tvg-name="Pequeradio TV" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png", Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="45101" tvg-name="Clan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan HD
+https://qlobbidev.s.llnwi.net/bpk-tv/CLANHD/hls/index.m3u8
 #EXTINF:-1 tvg-id="45102" tvg-name="NatGeo Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png", NatGeo Kids
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
 #EXTINF:-1 tvg-id="45103" tvg-name="Disney Jr" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png", Disney Jr
