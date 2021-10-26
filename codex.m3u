@@ -208,7 +208,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="Chacra TV" tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg", Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
-http://179.1.7.198:1935/live/TVAgroHD.stream/chunklist_w842594670.m3u8?PlaylistM3UCL
+http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106779" tvg-name="Rural TV" tvg-logo="https://2.bp.blogspot.com/-H8-Pfq2IYLw/V-_Re_1UPII/AAAAAAAABBw/cIKldEqScW0sKc1xN_RLz82l_zEC7svPQCLcB/s1600/canalrural-logo2016.png", Rural TV
 http://179.1.7.198:1935/live/TVAgroHD.stream/chunklist_w842594670.m3u8?PlaylistM3UCL
 
