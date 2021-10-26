@@ -42,32 +42,14 @@ https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://vtv.studio/wp-content/uploads/2020/08/Tastemade-logo.png" group-title="Cocina", Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Q4OgvndALm8/WqnaywA7f7I/AAAAAAAAEck/KVomu2aru5o9BbovpqTRoIWFxokuJ-JbACLcBGAs/s1600/_0040_discovery_hh.png" group-title="Hogar", Discovery Home & Health
-http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-id="80400" tvg-name="Sumac TV2" tvg-logo="http://sumactv.com/wp-content/uploads/2021/02/logo-1-tu-idnetidad-blanco-768x432.png", Sumac TV
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+https://vps1.lnx.pe/sumactv-hd/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="80313" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png", Hechicera TV
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80302" tvg-name="Antares TV" tvg-logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="80303" tvg-name="DMJ TV" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png", DMJ TV
 https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="124237" tvg-name="Star Channel" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg", Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="124238" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg", FX
-https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="FXM" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" , FXM
-https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="124239" tvg-name="AMC" tvg-logo="https://pbs.twimg.com/profile_images/1432784627006066692/Pd3n9j4U_400x400.png", AMC
-https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
-#EXTINF:-1 tvg-id="124240" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal
-http://51.79.17.169:25461/live/3289/fA8pMPyFYr/10844.m3u8?token=SxdcAxYKFA9AUQ1WBAEDXAUEAwABA1FaUwMLBglYB1RWAFEDUFFTAFZBFBVGR0EAVgxpUFwWCVMCXgwFFEMQFVVHawsBQAwXUVQLBgYHEUkVFV9UXRYJUh5ESFhcQ19EAQEAUFxAGhcHG0xSR11SCWgFU09RV1ZACAhNXVRNRwlealAHCANYUUBZGgcXHxEMRBEUA1ZBXw4eRFpYTBMEElUXDkBUUAIDQE8aVFpGXRFFGBQDGnVhQB5EXUlMBAsVWVpaQF9AWwYXWxobF1pAOkUERU1KUVIPVxQaCxpRR0oSWFUaOgFZWwwGW0NcXF0WFVsUChoYEQ9dCFFFVxM6FllRFlhHUAMEUFsaSg==
-#EXTINF:-1 tvg-id="124241" tvg-name="Golden" tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/7314538.png", Golden
-https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="124242" tvg-name="Golden EDGE" tvg-logo="https://2.bp.blogspot.com/-8yad3yUi75w/W6lpOlyQASI/AAAAAAAAAI4/jL-5Dh27kwgFNYlTyTXYYfeP7kBamdZkgCPcBGAYYCw/s1600/goldenedge.png", Golden EDGE
-https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="102483" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
-https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="102483" tvg-name="Cablemás" tvg-logo="https://pbs.twimg.com/profile_images/951602035362861056/l6LqHiwM_400x400.jpg", Cablemás
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8?PlaylistM3UCL&WebM3UCL
 #EXTINF:-1 tvg-id="102485" tvg-name="Wapp" tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp
@@ -102,11 +84,6 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="104454" tvg-name="Hola TV Play" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png", Hola TV
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/05/Favicon-DHE.png" group-title="CINE Y SERIES", DHE
-https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE Y SERIES", Europa Europa
-https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE Y SERIES", BUTACA TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
@@ -122,15 +99,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" , Las Estrellas
-https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" , Distrito Comedia
-https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" , De Pelicula
-https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , Azteca Cinema
-https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME
 https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
@@ -139,43 +107,18 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="45180" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", NatGeo
-https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
-#EXTINF:-1 tvg-id="45181" tvg-name="NatGeo WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png", NatGeo WILD
-https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
-#EXTINF:-1 tvg-id="45182" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", History
-http://edge1.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
-
 #EXTINF:-1 tvg-id="45100" tvg-name="Pequeradio TV" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png", Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="45101" tvg-name="Clan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan HD
-https://qlobbidev.s.llnwi.net/bpk-tv/CLANHD/hls/index.m3u8
-#EXTINF:-1 tvg-id="45102" tvg-name="NatGeo Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png", NatGeo Kids
-https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
-#EXTINF:-1 tvg-id="45103" tvg-name="Disney Jr" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png", Disney Jr
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="45104" tvg-name="Disney" tvg-logo="https://www.todoinfantil.com/img/pelicula/disney-channel-logo.png", Disney
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
-#EXTINF:-1 tvg-id="45105" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png", Disney XD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="INFANTIL", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="45106" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-id="45107" tvg-name="Planeta Junior TV" tvg-logo="https://pbs.twimg.com/profile_images/1422116987493363714/W0cT6ZGv_400x400.jpg", Planeta Junior TV
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45108" tvg-name="CN Toontubers" tvg-logo="https://cn.i.cdn.ti-platform.com/content/938/showpage/toontubers/ar/d22e6157d1434ed5892a2ad75f5d44ec.png", CN Toontubers
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
-#EXTINF:-1 tvg-id="45109" tvg-name="Boomerang Project" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/da/Boomerang_2000_Alt_2.png", Boomerang Project
-http://45.32.74.87:81/hls/projectboom.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="47417" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="47418" tvg-name="Anime Zone TV" tvg-logo="https://drive.google.com/file/d/1A13YS8oq-9ZybHURu1YpA0VRWcXGBTCR", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL&WebM3UCL
 #EXTINF:-1 tvg-id="47419" tvg-name="EnerGeek KTV" tvg-logo="https://energeek.cl/wp-content/uploads/2021/07/cropped-ugb.png", EnerGeek KTV
 https://tvstreaming.cl:1936/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="110680" tvg-name="Cloud Server Kids" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", Cloud Server Kids
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="109768" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa
@@ -297,9 +240,4 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106262" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="110617" tvg-name="NHK World" tvg-logo="https://lh3.googleusercontent.com/-x-S-MRU-WnA/X0Wm577k6mI/AAAAAAAA488/XNXHzIGbuIQOZILV5iMyhUtqchxQ7JRGQCK8BGAsYHg/s0/2020-08-25.png", NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="110617" tvg-name="NHK World ES" tvg-logo="https://lh3.googleusercontent.com/-x-S-MRU-WnA/X0Wm577k6mI/AAAAAAAA488/XNXHzIGbuIQOZILV5iMyhUtqchxQ7JRGQCK8BGAsYHg/s0/2020-08-25.png", NHK World ES
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-id="83643" tvg-name="Arirang" tvg-logo="https://lh3.googleusercontent.com/-EjspQDMJTv8/XbIv0DmeI5I/AAAAAAAArp4/sxviem-Fy9skCw30jz2aykgMXeffZqW_wCK8BGAsYHg/s0/2019-10-24.png", Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+
