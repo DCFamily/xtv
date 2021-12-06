@@ -1,21 +1,31 @@
-#EXTINF:-1 tvg-id="80306" tvg-name="BHTV" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png", BHTV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" group-title="NACIONAL", BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dd6ZzqF.jpg" group-title="PERU", LATINA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dd6ZzqF.jpg" group-title="NACIONAL", LATINA HD
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
-#EXTINF:-1 tvg-id="109750" tvg-name="Best Cable TV" tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png", Best Cable TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png" group-title="NACIONAL", BEST CABLE TV
 https://tv.siete.us:19360/bestcable/bestcable/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109751" tvg-name="Best Cable Music" tvg-logo="https://i.ytimg.com/vi/dBut61JjURU/maxresdefault.jpg", Best Cable Music
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/cadena-tv-en-vivo--1418.png" group-title="NACIONAL", CADENA TV HD
+https://tvdatta.com:3262/live/cadenatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dBut61JjURU/maxresdefault.jpg" group-title="MUSICA", BEST CABLE MUSIC
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109752" tvg-name="Best Cable Sports" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="DEPORTES", BEST CABLE SPORTS
 https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="100000" tvg-name="Limalive TV HD" tvg-logo="https://grupolimalive.com/wp-content/uploads/2021/02/cropped-lima-live-logo.jpg", Limalive TV HD
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1 tvg-id="100001" tvg-name="Cadena TV HD" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/cadena-tv-en-vivo--1418.png", Cadena TV HD
-https://tvdatta.com:3262/live/cadenatvlive.m3u8
-#EXTINF:-1 tvg-id="100002" tvg-name="Canal E (Altomayo)" tvg-logo="https://scontent.flim25-1.fna.fbcdn.net/v/t31.18172-8/p370x247/15937185_1730053577310462_55041457998329135_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=85a577&_nc_ohc=klaudJoipAgAX-sTLP9&_nc_ht=scontent.flim25-1.fna&edm=AFCcVE4EAAAA&oh=891390f0726d5fc1af4046a6a96c8471&oe=619ED4DF", Canal E (Altomayo)
+
+
+#EXTINF:-1 tvg-logo="https://scontent.flim25-1.fna.fbcdn.net/v/t31.18172-8/p370x247/15937185_1730053577310462_55041457998329135_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=85a577&_nc_ohc=klaudJoipAgAX-sTLP9&_nc_ht=scontent.flim25-1.fna&edm=AFCcVE4EAAAA&oh=891390f0726d5fc1af4046a6a96c8471&oe=619ED4DF" group-title="CULTURA", CANAL E
 https://srv1.mediastreamperu.com:8081/8006/index.m3u8
-#EXTINF:-1 tvg-id="100003" tvg-name="Canal E (Nororiente)" tvg-logo="https://scontent.flim25-1.fna.fbcdn.net/v/t31.18172-8/p370x247/15937185_1730053577310462_55041457998329135_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=85a577&_nc_ohc=klaudJoipAgAX-sTLP9&_nc_ht=scontent.flim25-1.fna&edm=AFCcVE4EAAAA&oh=891390f0726d5fc1af4046a6a96c8471&oe=619ED4DF", Canal E (Nororiente)
+#EXTINF:-1 tvg-logo="https://scontent.flim25-1.fna.fbcdn.net/v/t31.18172-8/p370x247/15937185_1730053577310462_55041457998329135_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=85a577&_nc_ohc=klaudJoipAgAX-sTLP9&_nc_ht=scontent.flim25-1.fna&edm=AFCcVE4EAAAA&oh=891390f0726d5fc1af4046a6a96c8471&oe=619ED4DF" group-title="CULTURA", CANAL E+
 https://srv1.mediastreamperu.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5484f0c2e4b0982d89a02d1f/1518728406686-VW7PK0BLEXLR38IRS8GR/Top_Gear.PNG" group-title="AUTOS", TOP GEAR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CULTURA", SABER MAS
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-id="100004" tvg-name="Creo TV HD" tvg-logo="https://scontent.flim25-1.fna.fbcdn.net/v/t1.6435-9/p370x247/217065202_4512578215428858_8715806757924981453_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=85a577&_nc_ohc=Pk66ztZXinYAX_dCbAd&_nc_ht=scontent.flim25-1.fna&edm=AFCcVE4EAAAA&oh=d60f968fdfde2dfee08f96c94e3058d9&oe=619CC876", Creo TV HD
@@ -107,25 +117,30 @@ http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3704.m3u8
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="KIDS", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="KIDS", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="45100" tvg-name="Pequeradio TV" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png", Pequeradio TV
+#EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png" group-title="KIDS", PEQUERADIO TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="45101" tvg-name="PlanetaTV Kids" tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png", Planeta TV Kids
+#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="KIDS", PLANETA TV Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="KIDS", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="45106" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg" group-title="KIDS", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-id="45108" tvg-name="CN Toontubers" tvg-logo="https://cn.i.cdn.ti-platform.com/content/938/showpage/toontubers/ar/d22e6157d1434ed5892a2ad75f5d44ec.png", CN Toontubers
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/938/showpage/toontubers/ar/d22e6157d1434ed5892a2ad75f5d44ec.png" group-title="KIDS", CN Toontubers
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
-#EXTINF:-1 tvg-id="47417" tvg-name="Latino Kids TV" tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fit/w_1000%2Ch_723%2Cal_c%2Cq_80/file.jpg", Latino Kids TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fit/w_1000%2Ch_723%2Cal_c%2Cq_80/file.jpg" group-title="KIDS", Latino Kids TV
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
-#EXTINF:-1 tvg-id="47418" tvg-name="Anime Zone TV" tvg-logo="https://drive.google.com/file/d/1A13YS8oq-9ZybHURu1YpA0VRWcXGBTCR", Anime Zone TV
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="CULTURA GEEK", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1A13YS8oq-9ZybHURu1YpA0VRWcXGBTCR" group-title="CULTURA GEEK", ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL&WebM3UCL
-#EXTINF:-1 tvg-id="47419" tvg-name="EnerGeek KTV" tvg-logo="https://energeek.cl/wp-content/uploads/2021/07/cropped-ugb.png", EnerGeek KTV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="CULTURA GEEK",Comedy Central South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/07/cropped-ugb.png" group-title="CULTURA GEEK", ENERGEEK KTV
 https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="GAMER", LEVEL UP TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="CULTURA GEEK", LEVEL UP TV
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
 
