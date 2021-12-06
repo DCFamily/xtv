@@ -27,7 +27,9 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-id="109753" tvg-name="Fuego TV" tvg-logo="https://fuegotvlima.pe/wp-content/uploads/2021/08/icofuego.png", Fuego TV
 https://cp.sradiotv.com:1936/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-id="109754" tvg-name="TV Cosmos" tvg-logo="http://publicacion.cloudapp.net/images/portafolio/Cosmos.png", TV Cosmos
-https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8?PlaylistM3UCL
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="109754" tvg-name="TV Cosmos 2" tvg-logo="http://publicacion.cloudapp.net/images/portafolio/Cosmos.png", TV Cosmos 2
+https://edge1o.live.opencaster.com/caster/playlist.m3u8
 #EXTINF:-1 tvg-id="109755" tvg-name="Asiri TV" tvg-logo="https://pbs.twimg.com/profile_images/1356256216826183682/Qou0bUnd_400x400.jpg", Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="109756" tvg-name="Full TV" tvg-logo="http://www.fulltv.pe/wp-content/uploads/2021/06/cropped-cropped-logo-fulltv-JNGMULTIMEDIA.-1536x618.png", Full TV
@@ -98,9 +100,11 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_573.png" group-title="NATURALEZA", Nature Vision TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="KIDS", IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+http://cdnh4.iblups.com/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="45100" tvg-name="Pequeradio TV" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png", Pequeradio TV
@@ -146,12 +150,8 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="Chacra TV" tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg", Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
-http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="106779" tvg-name="Rural TV" tvg-logo="https://2.bp.blogspot.com/-H8-Pfq2IYLw/V-_Re_1UPII/AAAAAAAABBw/cIKldEqScW0sKc1xN_RLz82l_zEC7svPQCLcB/s1600/canalrural-logo2016.png", Rural TV
-http://179.1.7.198:1935/live/TVAgroHD.stream/chunklist_w842594670.m3u8?PlaylistM3UCL
+http://179.1.7.198:1935/live/TVAgroHD.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="109752" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png", TyC Sports
-http://51.79.21.228:25461/live/3289/fA8pMPyFYr/10920.m3u8?token=SxdcAxYKFA9ABwlSAQcKXAVQBQAIAFYDU15ZBQ9ZBF9RB1FSAAYAUARBFBVGR0EAVgxpUFwWCVMCXwoBFEMQFVVHawsBQAwXUVQLBgYHEUkVFV9UXRYJUh5ESFhcQ19EBAIFVEdOFFAaF11FW1JfOlMEQFBbURFYXBNUXRRDCghvUVEPBAxSF1hBCRUZEVoWR0MMV01YX04QBFFFSgARAxIPFlFdVwIXTkFbWEBdRxdOQwwbeWYRThADQEVdDxYPX1sWWEcPBUBaQRQVXEBsF1ISQktdVV4HQEQCEwhDSURdVEw9Bg1YWwcATF5aXUBHDUMFGxQWXg1cD0xeSj4VD1QXDkBRVAUMQB4=
 #EXTINF:-1 tvg-id="109753" tvg-name="DeporTV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png", DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="80325" tvg-name="Ovacion" tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png", Ovacion
@@ -164,8 +164,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 
 #EXTINF:-1 tvg-id="101463" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="115395" tvg-name="AC Vision" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", AC Vision
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="96699" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109756" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png", Sol TV
@@ -192,7 +190,7 @@ http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz West HD 
 http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",   Canal Film 0 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Canal Film 0 
 http://f4.tvxweb.net:8082/24309/video.m3u8?token=MxPReBvRE10
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3118/brand.gif?itok=waMWHay8" group-title="TV PREMIUM",  Starz Encore HD
 http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
