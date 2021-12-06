@@ -102,6 +102,8 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_573.png" group-title="NATURALEZA", Nature Vision TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/190055_ANIMAL_PLANET.png" group-title="NATURALEZA", Animal Planet
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3704.m3u8
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="KIDS", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -150,7 +152,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="Chacra TV" tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg", Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
-http://179.1.7.198:1935/live/TVAgroHD.stream_480p/playlist.m3u8
+http://179.1.7.198:1935/live/TVAgroHD.stream/playlist_.m3u8
 
 #EXTINF:-1 tvg-id="109753" tvg-name="DeporTV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png", DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?WebM3UCL
@@ -168,6 +170,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109756" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png", Sol TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR&PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="CINE Y SERIES", AXN
+http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3703.m3u8
 
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="CINE Y SERIES", Planeta TV Movies
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
