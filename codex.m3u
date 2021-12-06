@@ -104,7 +104,7 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="KIDS", IPE
-http://cdnh4.iblups.com/hls/playlist.m3u8
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="45100" tvg-name="Pequeradio TV" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png", Pequeradio TV
@@ -150,7 +150,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="Chacra TV" tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg", Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="106778" tvg-name="TV Agro" tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg", TV Agro
-http://179.1.7.198:1935/live/TVAgroHD.stream_720p/playlist.m3u8
+http://179.1.7.198:1935/live/TVAgroHD.stream_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109753" tvg-name="DeporTV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png", DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?WebM3UCL
