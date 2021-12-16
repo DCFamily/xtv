@@ -110,10 +110,17 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Estelar
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcde437229eff00091b6c30/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=226292d3-fefe-446d-bfa5-fe4a17e3f659&deviceVersion=96.0.1054&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&deviceType=web&deviceMake=edge-chromium&sid=ac31baf9-5e50-11ec-89c8-0242ac110003&advertisingId=&deviceLat=-12.0464&deviceLon=-77.0428&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjRmN2M3YTYzLTA2M2QtNGM2Mi04NWIxLTUzOTkxNmZjZmFhZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhYzMxYmFmOS01ZTUwLTExZWMtODljOC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MC4yMzcuMTA4LjIyMSIsImNpdHkiOiJMaW1hIiwicG9zdGFsQ29kZSI6IiIsImNvdW50cnkiOiJQRSIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0xMi4wNDY0LCJkZXZpY2VMb24iOi03Ny4wNDI4LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ni4wLjEwNTQiLCJkZXZpY2VNYWtlIjoiZWRnZS1jaHJvbWl1bSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNi4wLWYzZTJhYzQ4ZDFkYmU4MTg5ZGM3ODQ3NzcxMDhiNzI1YjRiZTZiZTIiLCJjbGllbnRJRCI6IjIyNjI5MmQzLWZlZmUtNDQ2ZC1iZmE1LWZlNGExN2UzZjY1OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xpbWEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjM5Njc0OTEyLCJqdGkiOiI4N2JlNjc0My1iYjI1LTQwNGQtYjMzNy0zN2ZmZGI3ODNjZTQiLCJpYXQiOjE2Mzk2NDYxMTIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNakkyTWpreVpETXRabVZtWlMwME5EWmtMV0ptWVRVdFptVTBZVEUzWlRObU5qVTUifQ.fPXpnEKW__YMD6av_T18L9pOX9mU6urBT_tOa3x94QQ
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Entretenimiento",Hells Kitchen
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6095ad97351eb0000754c1e6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=226292d3-fefe-446d-bfa5-fe4a17e3f659&deviceVersion=96.0.1054&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&deviceType=web&deviceMake=edge-chromium&sid=ac31baf9-5e50-11ec-89c8-0242ac110003&advertisingId=&deviceLat=-12.0464&deviceLon=-77.0428&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjRmN2M3YTYzLTA2M2QtNGM2Mi04NWIxLTUzOTkxNmZjZmFhZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhYzMxYmFmOS01ZTUwLTExZWMtODljOC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MC4yMzcuMTA4LjIyMSIsImNpdHkiOiJMaW1hIiwicG9zdGFsQ29kZSI6IiIsImNvdW50cnkiOiJQRSIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0xMi4wNDY0LCJkZXZpY2VMb24iOi03Ny4wNDI4LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ni4wLjEwNTQiLCJkZXZpY2VNYWtlIjoiZWRnZS1jaHJvbWl1bSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNi4wLWYzZTJhYzQ4ZDFkYmU4MTg5ZGM3ODQ3NzcxMDhiNzI1YjRiZTZiZTIiLCJjbGllbnRJRCI6IjIyNjI5MmQzLWZlZmUtNDQ2ZC1iZmE1LWZlNGExN2UzZjY1OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xpbWEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjM5Njc0OTEyLCJqdGkiOiI4N2JlNjc0My1iYjI1LTQwNGQtYjMzNy0zN2ZmZGI3ODNjZTQiLCJpYXQiOjE2Mzk2NDYxMTIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNakkyTWpreVpETXRabVZtWlMwME5EWmtMV0ptWVRVdFptVTBZVEUzWlRObU5qVTUifQ.fPXpnEKW__YMD6av_T18L9pOX9mU6urBT_tOa3x94QQ
+
+#EXTINF:-1 tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_573.png" group-title="NATURALEZA", El encantador de perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_573.png" group-title="NATURALEZA", Nature Vision TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/190055_ANIMAL_PLANET.png" group-title="NATURALEZA", Animal Planet
-http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3704.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="KIDS", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -132,9 +139,13 @@ https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fit/w_1000%2Ch_723%2Cal_c%2Cq_80/file.jpg" group-title="KIDS", Latino Kids TV
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="CULTURA GEEK", LOCOMOTION
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-AkPh3FBRMZk/WQMUiuTRipI/AAAAAAAABuE/VzAY3twoV9c-3tUhh24mTvvxVGMpE32TACLcB/w1200-h630-p-k-no-nu/YugiohLogo.png" group-title="CULTURA GEEK", Yu-Gi-Oh!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://beckett-www.s3.amazonaws.com/news/news-content/uploads/2020/05/2020-Upper-Deck-Marvel-Anime-Logo.jpg" group-title="CULTURA GEEK", Anime Heroes TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="CULTURA GEEK", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1A13YS8oq-9ZybHURu1YpA0VRWcXGBTCR" group-title="CULTURA GEEK", ANIME ZONE TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1A13YS8oq-9ZybHURu1YpA0VRWcXGBTCR" group-title="CULTURA GEEK", AZTV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL&WebM3UCL
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="CULTURA GEEK",Comedy Central South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -186,8 +197,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="109756" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png", Sol TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR&PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="CINE Y SERIES", AXN
-http://fajitasonthagrill.xyz:24561/live/delpiero1537/Rpo78218/3703.m3u8
 
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="CINE Y SERIES", Planeta TV Movies
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
@@ -321,23 +330,4 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="MUSICA", VEVO REGGAETÓN & TRAP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="95520" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="108314" tvg-name="Mix 24-7 Top 100" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Top 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="111630" tvg-name="Mix 24-7 Pop" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="111631" tvg-name="Mix 24-7 Baladas" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Baladas
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="111629" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Retro
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="111628" tvg-name="Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Tropical
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="126569" tvg-name="Mix 24-7 Puro Rock" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Puro Rock
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="116605" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Conciertos Live
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="106262" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
-
 
