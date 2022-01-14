@@ -316,12 +316,11 @@ https://tls-cl.cdnz.cl:443/rewindtv/live/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="110971" tvg-name="Retro Plus Music 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="74166" tvg-name="TV POP" tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg", TV POP
-https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="109956" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="97300" tvg-name="On Radio Kpop" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Kpop
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RTX7cZb.png" group-title="MUSICA", Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://p16-amd-va.tiktokcdn.com/musically-maliva-obj/81bf0ae3b1693ba50252ab4bb9777d0f~c5_720x720.jpeg" group-title="MUSICA", Zapping Music
