@@ -45,7 +45,7 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima98001053557.jpg" group-title="NACIONAL", Uranio TV
-https://live.obslivestream.com/uraniomux/index.m3u8
+https://live.obslivestream.com/uraniomux/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=272x10000:format=jpg/path/s86a1480785a470a0/image/iec1f514e68ac327e/version/1615874753/image.jpg" group-title="NACIONAL", Genios TV
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
