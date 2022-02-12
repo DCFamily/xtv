@@ -48,7 +48,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://live.obslivestream.com/uraniomux/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=272x10000:format=jpg/path/s86a1480785a470a0/image/iec1f514e68ac327e/version/1615874753/image.jpg" group-title="NACIONAL", Genios TV
-https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
+https://live.obslivestream.com/geniostvmux/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/LOGO-BLANCO-SIN-HD-768x315.png" group-title="NACIONAL", OK TeVe HD
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
