@@ -63,6 +63,14 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="http://publicacion.cloudapp.net/images/portafolio/Cosmos.png" group-title="NACIONAL", TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima98001053557.jpg" group-title="NACIONAL", Uranio TV
+https://live.obslivestream.com/uraniomux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=272x10000:format=jpg/path/s86a1480785a470a0/image/iec1f514e68ac327e/version/1615874753/image.jpg" group-title="NACIONAL", Genios TV
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/LOGO-BLANCO-SIN-HD-768x315.png" group-title="NACIONAL", OK TeVe HD
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356256216826183682/Qou0bUnd_400x400.jpg" group-title="NACIONAL", Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
@@ -135,7 +143,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="NATURALEZA", Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="KIDS", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="KIDS", DIOS TV KIDS
@@ -144,6 +151,10 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/3942666/LINEStorePC/main.png" group-title="KIDS", Pinkfong TV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/Logo-con-peppa-pig.png" group-title="KIDS", Peppa Pig TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644663041/ei/oTwHYojjMYiYobIPlr2DoAI/ip/181.66.206.129/id/hl_nACnH42w.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIxtN2QZbAH3G1askMQC4SB2xMi_wqeWzE5PnT525iH-AiAP3SOVxMpFJfivCKsdqGmBt_GGHB47874fkC6c1i56Mw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/8/Tom-And-Jerry-Logo-PNG-Clipart-Background.png" group-title="KIDS", Tom y Jerry TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644661819/ei/2zcHYqeoCZqHkAO72YbgCg/ip/181.66.206.129/id/eGBMvVFGMfI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPOcz_mOTXxD-Mil7R9qz2i3gW7ybF4FKrBP13RoYrObAiEAk_ziEf_bhzpdwlLfoLQ4mqt4-FB1IdGGeyXkwC_UEto%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="KIDS", PLANETA TV Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="KIDS", PLANETA TV Junior
