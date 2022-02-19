@@ -4,21 +4,8 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png" group-title="NACIONAL", Best Cable TV
 https://ca.inka.net.pe/bestcable/bestcable/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="NACIONAL", ATV
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL", ATV+
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="hhttps://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="NACIONAL", TV Perú Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL", TV Perú Noticias
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qCGK0wg/69005096-101115274585361-1608136442540720128-n.png" group-title="NACIONAL", Limalive TV
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" group-title="NACIONAL",Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
@@ -65,11 +52,32 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLjhbg/270278366-3071172356491008-8571693101869102952-n-webp.jpg" group-title="NACIONAL", Creo TV
 https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qCGK0wg/69005096-101115274585361-1608136442540720128-n.png" group-title="NACIONAL", Limalive TV
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+
 #EXTINF:-1 tvg-id="80303" tvg-name="DMJ TV" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="NACIONAL", DMJ TV
 https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="230221" tvg-name="Conecta2" tvg-logo="https://graph.facebook.com/RadioConecta2/picture?width=200&height=200" group-title="NACIONAL", Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL NOTICIAS", TV Perú Noticias
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6xRl_mE6J8/Xz8pEV_GYUI/AAAAAAAA4t0/i75PtogKdwMCHzO09Ns0R1o-V6YOiqHkACK8BGAsYHg/s0/2020-08-20.jpg" group-title="NACIONAL NOTICIAS", Vision Noticias Peru
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL NOTICIAS", ATV+
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="NACIONAL NOTICIAS", Exitosa TV
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8dWyD0WUAUBj9v.png" group-title="NACIONAL NOTICIAS", Onda Digital TV
+https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://uci.pe/images/grafica/logouci.png" group-title="NACIONAL NOTICIAS", UCI TV
+https://mediastreamm.com:3449/live/playlist.m3u
 
 
 #EXTINF:-1 tvg-id="83638" tvg-name="CGTN Español" tvg-logo="https://lh3.googleusercontent.com/-5Bst2FjJUOo/XbIpHQZPzvI/AAAAAAAArpI/tLHDuXno6jYWed5i08VruJbrM4M8MiiigCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL", CGTN Español
@@ -222,17 +230,7 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="NOTICIAS", Exitosa TV
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6xRl_mE6J8/Xz8pEV_GYUI/AAAAAAAA4t0/i75PtogKdwMCHzO09Ns0R1o-V6YOiqHkACK8BGAsYHg/s0/2020-08-20.jpg" group-title="NOTICIAS", Vision Noticias Peru
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8dWyD0WUAUBj9v.png" group-title="NOTICIAS", Onda Digital TV
-https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://uci.pe/images/grafica/logouci.png" group-title="NOTICIAS", UCI TV
-https://mediastreamm.com:3449/live/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png" group-title="NOTICIAS", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
