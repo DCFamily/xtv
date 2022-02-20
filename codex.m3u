@@ -4,9 +4,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png" group-title="NACIONAL", Best Cable TV
 https://ca.inka.net.pe/bestcable/bestcable/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="NACIONAL", TV Perú Internacional
-https://cdnh74.iblups.com/hls/irtp.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" group-title="NACIONAL",Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
