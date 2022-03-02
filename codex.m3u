@@ -16,6 +16,9 @@ https://ca.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyzvypdv/logolotv2.png" group-title="NACIONAL", LotPlus TV HD
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="NACIONAL", Planeta TV
+https://live.obslivestream.com/planetatvmux/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://publicacion.cloudapp.net/images/portafolio/Cosmos.png" group-title="NACIONAL", TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
@@ -476,6 +479,18 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 
 #EXTINF:-1 tvg-id="110971" tvg-name="Retro Plus Music 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA",MCRT - 80s
+https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA",MCRT - Español
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA",MCRT - Reggeaton
+https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSICA",MCRT - Top Hits
+https://stmv.negotv.com/top2021/top2021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109956" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="MUSICA", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
