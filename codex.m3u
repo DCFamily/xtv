@@ -2,7 +2,7 @@
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png" group-title="NACIONAL", Best Cable TV
-https://ca.inka.net.pe/bestcable/bestcable/playlist.m3u8
+https://tv.inka.net.pe/bestcable/bestcable/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" group-title="NACIONAL",Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
@@ -75,7 +75,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6xRl_mE6J8/Xz8pEV_GYUI/AAAAAAAA4t0/i75PtogKdwMCHzO09Ns0R1o-V6YOiqHkACK8BGAsYHg/s0/2020-08-20.jpg" group-title="NACIONAL NOTICIAS", Vision Noticias Peru
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL NOTICIAS", TV Perú Noticias
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
@@ -274,7 +274,7 @@ http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="DEPORTES", Best Cable Sports
-https://ca.inka.net.pe/bestcablesports/bestcablesports/playlist.m3u8
+https://tv.inka.net.pe/bestcablesports/bestcablesports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="80325" tvg-name="Ovacion" tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png" group-title="DEPORTES", Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
@@ -314,11 +314,8 @@ https://v4.tustreaming.cl/poptv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-04/telesistema-costa-rica.png" group-title="CINE Y SERIES", Telesistemas TV1
+#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-04/telesistema-costa-rica.png" group-title="CINE Y SERIES", Telesistemas
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL&WebM3UCL
-
-#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-04/telesistema-costa-rica.png" group-title="CINE Y SERIES", Telesistemas TV2
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL&WebM3UC
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png" group-title="CINE Y SERIES", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
@@ -339,13 +336,13 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="109808" tvg-name="Vision TV Musica" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png" group-title="MUSICA", Vision TV Musica
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
+https://videoserver.tmcreativos.com:19360/vnpmusica/vnpmusica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dBut61JjURU/maxresdefault.jpg" group-title="MUSICA", Best Cable Music
-https://ca.inka.net.pe/bestcablemusic/bestcablemusic/playlist.m3u8
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109754" tvg-name="Best Cable +Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICA", +Cumbia Canal 98
-https://ca.inka.net.pe/mascumbiatvonline/mascumbiatvonline/playlist.m3u8
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109755" tvg-name="Best Cable Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", Hatun TV Canal 99
 https://ca.inka.net.pe/bestcablehatuntv/bestcablehatuntv/playlist.m3u8
