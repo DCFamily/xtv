@@ -7,7 +7,7 @@ https://tv.inka.net.pe/bestcable/bestcable/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" group-title="NACIONAL",Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalxtvperu/picture?width=320&height=320" group-title="NACIONAL",X TV
+#EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/elementor/thumbs/x-tv-web-1-petnx00xagwqa1c22yd7q11m7re1gdrenujnh9kglg.png" group-title="NACIONAL",X TV
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="NACIONAL",Cajamarca TV
@@ -35,13 +35,7 @@ https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcz2x0yjhbI/XoKGofB5-FI/AAAAAAAAxWI/uOpqPe2IAvYhQQB_eagNDahP2rtxSLF-QCK8BGAsYHg/s0/2020-03-30.png" group-title="NACIONAL", Via Television Tarapoto
-https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-a6-jFincYx4/XoKGQM0oJWI/AAAAAAAAxWA/JPXlKZwqMPE26VLeUAg9y0wBYOfSIGotwCK8BGAsYHg/s0/2020-03-30.png" group-title="NACIONAL", Unitel TV
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://sumactv.com/wp-content/uploads/2021/02/logo-1-tu-idnetidad-blanco-768x432.png" group-title="NACIONAL", Sumac TV
-https://vps1.lnx.pe/sumactv-web/envivo/tracks-v1a1/playlist.m3u8
+https://videoserver.tmcreativos.com:19360/viatv2021/viatv2021.m3u8
 
 #EXTINF:-1 tvg-id="80313" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png" group-title="NACIONAL", Hechicera TV
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
