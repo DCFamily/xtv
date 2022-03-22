@@ -223,13 +223,13 @@ https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8?WebM3UCL
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/938/showpage/toontubers/ar/d22e6157d1434ed5892a2ad75f5d44ec.png" group-title="KIDS", CN Toontubers
-https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fit/w_1000%2Ch_723%2Cal_c%2Cq_80/file.jpg" group-title="KIDS", Latino Kids TV
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/3de35539c2105a39e5636de86eac039a.png" group-title="KIDS", FanPOP TV
-https://mediacpstreamchile.com:1936/carlospinto/carlospinto/playlist.m3u8?WebM3UCL
+https://5eff35271151c.streamlock.net:1936/8160/8160/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/677936e5e91c9f5cffa02783544d5e39.png" group-title="KIDS", FOX Kids
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
@@ -345,12 +345,12 @@ https://tv.inka.net.pe/bestcablemusic/bestcablemusic/playlist.m3u8
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109755" tvg-name="Best Cable Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", Hatun TV Canal 99
-https://ca.inka.net.pe/bestcablehatuntv/bestcablehatuntv/playlist.m3u8
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="114052" tvg-name="TVperuanisima" tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png" group-title="MUSICA", TVperuanisima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="114054" tvg-name="Turbomix TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Radio-Turbo-Mix-TV-en-vivo-Online.png" group-title="MUSICA", TVperuanisima
+#EXTINF:-1 tvg-id="114054" tvg-name="Turbomix TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Radio-Turbo-Mix-TV-en-vivo-Online.png" group-title="MUSICA", Turbomix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="MUSICA",Radio San Borja TV
