@@ -29,13 +29,13 @@ https://live.obslivestream.com/uraniomux/playlist.m3u8
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/LOGO-BLANCO-SIN-HD-768x315.png" group-title="NACIONAL", OK TeVe HD
-https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
+https://srv1.mediastreamperu.com:8081/8020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356256216826183682/Qou0bUnd_400x400.jpg" group-title="NACIONAL", Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcz2x0yjhbI/XoKGofB5-FI/AAAAAAAAxWI/uOpqPe2IAvYhQQB_eagNDahP2rtxSLF-QCK8BGAsYHg/s0/2020-03-30.png" group-title="NACIONAL", Via Television Tarapoto
-https://videoserver.tmcreativos.com:19360/viatv2021/viatv2021.m3u8
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="80313" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png" group-title="NACIONAL", Hechicera TV
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
