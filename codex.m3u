@@ -8,7 +8,7 @@ https://tv.inka.net.pe/bestcable/bestcable/playlist.m3u8
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/elementor/thumbs/x-tv-web-1-petnx00xagwqa1c22yd7q11m7re1gdrenujnh9kglg.png" group-title="NACIONAL",X TV
-https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
+https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="NACIONAL",Cajamarca TV
 https://ca.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
