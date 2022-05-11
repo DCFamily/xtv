@@ -22,6 +22,9 @@ https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="http://publicacion.cloudapp.net/images/portafolio/Cosmos.png" group-title="NACIONAL", TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://publicacion.cloudapp.net/images/portafolio/Cosmos.png" group-title="NACIONAL", TV Cosmos 2
+https://edge1o.live.opencaster.com/caster/tpHaqFjazqvD.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima98001053557.jpg" group-title="NACIONAL", Uranio TV
 https://live.obslivestream.com/uraniomux/playlist.m3u8
 
@@ -34,8 +37,17 @@ https://srv1.mediastreamperu.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356256216826183682/Qou0bUnd_400x400.jpg" group-title="NACIONAL", Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="NACIONAL", Tarapoto TV
+https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcz2x0yjhbI/XoKGofB5-FI/AAAAAAAAxWI/uOpqPe2IAvYhQQB_eagNDahP2rtxSLF-QCK8BGAsYHg/s0/2020-03-30.png" group-title="NACIONAL", Via Television Tarapoto
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1515427312128438278/QEo8eb3f_400x400.jpg" group-title="NACIONAL", Via Altomayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png" group-title="NACIONAL", VZ Television
+https://live.obslivestream.com/vztvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="80313" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png" group-title="NACIONAL", Hechicera TV
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
@@ -44,16 +56,16 @@ https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCnLjhbg/270278366-3071172356491008-8571693101869102952-n-webp.jpg" group-title="NACIONAL", Creo TV
-https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/centraltv.png" group-title="NACIONAL", Central TV
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qCGK0wg/69005096-101115274585361-1608136442540720128-n.png" group-title="NACIONAL", Limalive TV
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="80303" tvg-name="DMJ TV" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="NACIONAL", DMJ TV
 https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="230221" tvg-name="Conecta2" tvg-logo="https://graph.facebook.com/RadioConecta2/picture?width=200&height=200" group-title="NACIONAL", Conecta2
-https://servilive.com:3114/live/liveulive.m3u8
 
 #EXTINF:-1 tvg-id="80303" tvg-name="DMJ TV" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png" group-title="NACIONAL", Autentica TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -97,9 +109,6 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="NOTICIAS",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8?PlaylistM3UCL
 
 
 
@@ -307,6 +316,9 @@ https://v4.tustreaming.cl/poptv/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NshHqn8/UNITEL-GLOBAL-HD.jpg" group-title="CINE Y SERIES", Unitel HD
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-04/telesistema-costa-rica.png" group-title="CINE Y SERIES", Telesistemas
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL&WebM3UCL
