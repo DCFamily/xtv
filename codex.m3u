@@ -17,7 +17,8 @@ https://tv.inka.net.pe/cajamarcatv/cajamarcatv/tracks-v1a1/playlist.m3u8
 https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5Zhdbo.png" group-title="NACIONAL",Sumac TV
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+https://vps1.lnx.pe/sumactv-web/envivo/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YNZwq9N.png" group-title="NACIONAL",Tele2000 TV
 https://servilive.com:3126/live/tele2000live.m3u8
