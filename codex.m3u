@@ -4,6 +4,15 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png" group-title="NACIONAL", Best Cable TV
 https://tv.inka.net.pe/bestcable/bestcable/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFuSV3Bt_vU4_1TkJZyvErBBEYGm8pWRirBXUw9OJ7lmI)/dm/3/x774s7s/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL", ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_nex-tv_m.png" group-title="NACIONAL",Global TV
+http://190.108.83.142:8000/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" group-title="NACIONAL",Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
@@ -23,7 +32,7 @@ https://vps1.lnx.pe/sumactv-web/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YNZwq9N.png" group-title="NACIONAL",Tele2000 TV
 https://servilive.com:3126/live/tele2000live.m3u8
 
-#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/05/footer.png" group-title="NACIONAL",Mega TV 
+#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/05/footer.png" group-title="NACIONAL",Mega TV (Jaen)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyzvypdv/logolotv2.png" group-title="NACIONAL", LotPlus TV HD
@@ -95,8 +104,28 @@ https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="80303" tvg-name="Autentica TV" tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png" group-title="NACIONAL", Autentica TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="80303" tvg-name="DMJ TV" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="NACIONAL", DMJ TV
+#EXTINF:-1 tvg-id="80303" tvg-name="DMJ TV" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="NACIONAL", DMJ TV (Cusco)
 https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/n6uwJAC.png" group-title="General",Trivu (Lima) [Not 24/7]
+https://servilive.com:3244/live/trivutvlive.m3u8
+
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="General",MaticesTV (Cañete)
+http://v4.tustreaming.cl/matices/index.m3u8
+
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV [Not 24/7]
+https://live.obslivestream.com/sanjuanera/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL", ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/YbyjNgU.png" group-title="General",NacionalTV (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="NACIONAL", Congreso TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRep%C3%BAblicadelPer%C3%BATVenvivo/live
+
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1075497247129911296/_RyuQ8I4_400x400.jpg" group-title="INTERNACIONAL", NET TV
@@ -114,11 +143,16 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6xRl_mE6J8/Xz8pEV_GYUI/AAAAAAAA4t0/i75PtogKdwMCHzO09Ns0R1o-V6YOiqHkACK8BGAsYHg/s0/2020-08-20.jpg" group-title="NACIONAL NOTICIAS", Vision Noticias Peru
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL NOTICIAS", TV Perú Noticias
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="NACIONAL NOTICIAS", Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL NOTICIAS", ATV+
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
@@ -211,6 +245,9 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/938/showpage/toontubers/ar/d22e6157d1434ed5892a2ad75f5d44ec.png" group-title="KIDS", CN Toontubers
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
+http://45.5.8.78:8000/play/a00i
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fit/w_1000%2Ch_723%2Cal_c%2Cq_80/file.jpg" group-title="KIDS", Latino Kids TV
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
@@ -255,11 +292,20 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/2560px-Aniplus_logo.svg.png" group-title="ANIMÉ+GEEK", Aniplus TV
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/21292151846695a1a7dff79bad326e50.png" group-title=""ANIMÉ+GEEK", ENERGEEK TV
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="Music",EnerGeek Radio (720p) [Not 24/7]
+https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/0a827a2aa3eb974cf2e999e0139f6d0f.png" group-title="ANIMÉ+GEEK", ENERGEEK TV2
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek1.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="Entertainment",EnerGeek Señal 1 (720p) [Not 24/7]
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Series",EnerGeek Señal 3 (720p) [Not 24/7]
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1404524676160835590/6IJzCfVk_400x400.jpg" group-title="ANIMÉ+GEEK", ZaZ TV
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/ZAZ/index-zaz/2.m3u8
@@ -284,6 +330,9 @@ https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="NATURALEZA",El Encantador de Perros
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="NATURALEZA",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_573.png" group-title="NATURALEZA", Nature Vision
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 
@@ -304,6 +353,11 @@ https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CP6r9bV/272131317-503532884474533-5323509776501579157-n.jpg" group-title="NACIONAL", Agro TV
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://agrotendencia.tv/wp-content/uploads/2021/02/MOSC.png" group-title="NACIONAL", Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5484f0c2e4b0982d89a02d1f/1518728406686-VW7PK0BLEXLR38IRS8GR/Top_Gear.PNG" group-title="AUTOS", Top Gear
@@ -313,6 +367,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a53
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DirecTV Sports (480p)
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="DEPORTES", Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/playlist.m3u8
@@ -394,6 +450,9 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109808" tvg-name="Vision TV Musica" tvg-logo="https://lh3.googleusercontent.com/-qSajgX0bucY/Xz8opUTK86I/AAAAAAAA4ts/S5qSak8GG0gGqZSx3hC5cRPMH7RV_KW_ACK8BGAsYHg/s0/2020-08-20.png" group-title="MUSICA", Vision TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png" group-title="MUSICA", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dBut61JjURU/maxresdefault.jpg" group-title="MUSICA", Best Cable Music
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/playlist.m3u8
