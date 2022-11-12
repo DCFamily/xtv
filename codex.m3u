@@ -137,6 +137,10 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg" group-title="INTERNACIONAL", Caracol HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn.jpg" group-title="INTERNACIONAL, TelemaX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5Bst2FjJUOo/XbIpHQZPzvI/AAAAAAAArpI/tLHDuXno6jYWed5i08VruJbrM4M8MiiigCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL", CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -270,8 +274,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ptzynYv.png" group-title="ANIMÉ+GEEK", Rocket Channel
-https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="ANIMÉ+GEEK",Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -285,37 +287,20 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://azxtv.com/aztv.png" group-title="ANIMÉ+GEEK", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/2560px-Aniplus_logo.svg.png" group-title="ANIMÉ+GEEK", Aniplus TV
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq77YBSK/307976254-506223854850744-7009320192702512817-n.png" group-title="ANIMÉ+GEEK", Wowly TV
+https://stream.wowlymedia.com/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="Music",EnerGeek Radio (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="ANIMÉ+GEEK",EnerGeek Radio (720p) [Not 24/7]
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek1.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="Entertainment",EnerGeek Señal 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeek1.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="ANIMÉ+GEEK",EnerGeek Señal 1 (720p) [Not 24/7]
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="ANIMÉ+GEEK",EnerGeek Fanpop (720p) [Not 24/7]
 https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Series",EnerGeek Señal 3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="ANIMÉ+GEEK",EnerGeek Señal 3 (720p) [Not 24/7]
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1404524676160835590/6IJzCfVk_400x400.jpg" group-title="ANIMÉ+GEEK", ZaZ TV
-https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/ZAZ/index-zaz/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://zaztv.com/storage/branding_media/BYPUAzbxn2h1N8bbNDSYINV61sVctU5Gf2dAYMnS.png" group-title="ANIMÉ+GEEK", ZaZ BETA
-https://stream-us-east-1.getpublica.com/cl/a3eab420-f8aa-48d6-b66f-799e399c3cb6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.control.vg/wp-content/uploads/2015/02/controlvgblanco.png" group-title="ANIMÉ+GEEK", Control.VG
-https://tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.qore.com/public/uploads/images/94280/94280.png" group-title="ANIMÉ+GEEK", LEVEL UP TV
-https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
-
-
 
 
 
@@ -336,17 +321,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/hispantv.png" group-title="CULTURA", Hispan TV
-https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn.jpg" group-title="CULTURA", TelemaX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CULTURA", Saber Mas
-https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.platzi.com/media/avatars/Platzi-f730e65b-e92b-44d3-81c0-5c59c4dc4658.png" group-title="CULTURA", Platzi TV
-https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CP6r9bV/272131317-503532884474533-5323509776501579157-n.jpg" group-title="NACIONAL", Agro TV
@@ -355,12 +332,22 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo="https://agrotendencia.tv/wp-content/uploads/2021/02/MOSC.png" group-title="NACIONAL", Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg" group-title="AGRO", Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5484f0c2e4b0982d89a02d1f/1518728406686-VW7PK0BLEXLR38IRS8GR/Top_Gear.PNG" group-title="AUTOS", Top Gear
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 channel-id="pluto-5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Curiosidad", Pluto TV Velocidad
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="AUTOS",El Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DirecTV Sports (480p)
@@ -385,14 +372,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?WebM3UCL
 https://streamamg-fcbar01.akamaized.net/hls/live/2040130/0_fcq6zq7g/1080p/hdntl=exp=1653812853~acl=%2f*~data=hdntl~hmac=1814af60ce086c6d3b7b7dafb2371ce4930883f8862e2a72aafd7e698d842681/prog_index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg" group-title="AGRO", Chacra TV
-https://s8.stweb.tv/chacra/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvmilagrobrasil.com.br/wp-content/uploads/2021/04/MILAGRO_3D-300x169.png" group-title="AGRO", TV Milagro
-https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bYWyyOcC2x4/XzgjJoWSgjI/AAAAAAAA4ZI/qdACJcxyvH0GPd6j7ptRXf-ZksfqKlIzQCK8BGAsYHg/s0/2020-08-15.jpg" group-title="AGRO", TV Agro HD
-http://179.1.7.198:1935/live/TVAgroHD.stream/playlist_.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="CINE Y SERIES", Rakuten TOP TV
