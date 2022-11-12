@@ -195,18 +195,12 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="HOGAR Y ESTILO", Hola TV
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalkzo.com/images/lg_kzo.svg" group-title="HOGAR Y ESTILO", KZO TV
-https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_720p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1400514686974578691/Xd3msQu2_400x400.jpg" group-title="HOGAR Y ESTILO", Panavision TV
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="NOVELAS", Como dice El Dicho
 https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="NOVELAS", La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/localnow/344/hls/master/playlist.m3u8
 
 
 
@@ -229,6 +223,9 @@ https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="KIDS", Planeta TV Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="KIDS",Planeta TV Kids
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="KIDS", Planeta TV Junior
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 
@@ -250,7 +247,6 @@ http://45.5.8.78:8000/play/a00i
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fit/w_1000%2Ch_723%2Cal_c%2Cq_80/file.jpg" group-title="KIDS", Latino Kids TV
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-
 
 
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="COMEDIA",Cine Comedia
