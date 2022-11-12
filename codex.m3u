@@ -368,29 +368,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTES", DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Barca_TV.png" group-title="DEPORTES", Barca TV
-https://streamamg-fcbar01.akamaized.net/hls/live/2040130/0_fcq6zq7g/1080p/hdntl=exp=1653812853~acl=%2f*~data=hdntl~hmac=1814af60ce086c6d3b7b7dafb2371ce4930883f8862e2a72aafd7e698d842681/prog_index.m3u8
-
-
 
 
 
 
 #EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="CINE Y SERIES", Rakuten TOP TV
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE Y SERIES", ViX Cine 1
-https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE Y SERIES", ViX Cine 2
-https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE Y SERIES", ViX Cine 3
-https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png" group-title="CINE Y SERIES", EvaStream
-https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
@@ -404,23 +387,9 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NshHqn8/UNITEL-GLOBAL-HD.jpg" group-title="CINE Y SERIES", Unitel HD
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-04/telesistema-costa-rica.png" group-title="CINE Y SERIES", Telesistemas
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL&WebM3UCL
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png" group-title="CINE Y SERIES", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE Y SERIES", Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnZpd2l4LnZpd2l4YnB4X2ljb25fMTYxNTA5MDQyN18wOTk/icon.png?w=170&fakeurl=1" group-title="CINE Y SERIES", Viwix TV
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="CINE Y SERIES", Planeta TV Movies
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME Cinema
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 
 
@@ -440,7 +409,7 @@ https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="109755" tvg-name="Best Cable Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", Hatun TV Canal 99
 https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L45zrbj.png" group-title="MUSICA", Stereo TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L45zrbj.png" group-title="MUSICA", SOL Stereo TV
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="114052" tvg-name="TVperuanisima" tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png" group-title="MUSICA", TVperuanisima
@@ -462,7 +431,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1160_VClassicTV.png" group-title="MUSICA", VClassic TV
-https://5eff35271151c.streamlock.net:1936/8112/8112/chunklist_w1971033873.m3u8
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1625680323.m3u8
 
 #EXTINF:-1 tvg-id="109956" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="MUSICA", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
@@ -474,7 +443,7 @@ https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?WebM3UCL
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="114053" tvg-name="TOP Latino TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA", TOP Latino TV
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA",SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
