@@ -2,10 +2,13 @@
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png" group-title="NACIONAL", Best Cable TV
-https://tv.inka.net.pe/bestcable/bestcable/playlist.m3u8
+https://ca2.inka.net.pe/bestcable/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Mesa-de-trabajo-16logo-infa-2048x585.png" group-title="NACIONAL", CablePerú TV
+https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
-https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkovKDKLyYBZVvu19fDz0FUdewQf2D89h3zCNsBbGGk0)/dm/3/x774s7s/s/live-3.m3u8
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
@@ -91,8 +94,6 @@ http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV [Not 24/7]
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL", ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YbyjNgU.png" group-title="NACIONAL",Nacional TV [NO 24/7]
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
@@ -413,7 +414,7 @@ http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="DEPORTES", Best Cable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/playlist.m3u8
+https://ca2.inka.net.pe/bestcablesports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="80325" tvg-name="Ovacion" tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png" group-title="DEPORTES", Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
@@ -510,13 +511,13 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://cu.onliv3.com/livevd/user1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dBut61JjURU/maxresdefault.jpg" group-title="MUSICA", Best Cable Music
-https://tv.inka.net.pe/bestcablemusic/bestcablemusic/playlist.m3u8
+https://ca2.inka.net.pe/bestcablemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109754" tvg-name="Best Cable +Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICA", +Cumbia Canal 98
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/playlist.m3u8
+https://ca2.inka.net.pe/mascumbiatvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109755" tvg-name="Best Cable Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", Hatun TV Canal 99
-https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/playlist.m3u8
+https://ca2.inka.net.pe/bestcablehatuntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="114052" tvg-name="TVperuanisima" tvg-logo="https://lh3.googleusercontent.com/-421vow8pfJs/X5waL4rYooI/AAAAAAAA634/92Pn5Ue8nJQjtxdr9zKc2yQrmo9dsBuXACK8BGAsYHg/s0/2020-10-30.png" group-title="MUSICA", TVperuanisima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
