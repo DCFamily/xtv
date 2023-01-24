@@ -16,9 +16,6 @@ https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5Zhdbo.png" group-title="NACIONAL",Sumac TV
 https://vps1.lnx.pe/sumactv-web/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/n6uwJAC.png" group-title="General",Trivu TV
-https://servilive.com:3244/live/trivutvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
@@ -26,13 +23,16 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="NACIONAL", Exitosa TV
-https://cu.onliv3.com/livevd1/user2.m3u8
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL", TV Perú Noticias
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6xRl_mE6J8/Xz8pEV_GYUI/AAAAAAAA4t0/i75PtogKdwMCHzO09Ns0R1o-V6YOiqHkACK8BGAsYHg/s0/2020-08-20.jpg" group-title="NACIONAL", Vision Noticias Peru
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/n6uwJAC.png" group-title="General",Trivu TV
+https://servilive.com:3244/live/trivutvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YbyjNgU.png" group-title="NACIONAL",Nacional TV [NO 24/7]
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
