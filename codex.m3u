@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-logo="https://futbolfullenvivo.nl/imagenes/directvsports2.png" group-title="DEPORTES", DIRECT TV 2
+https://1063-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" group-title="NACIONAL", BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 
