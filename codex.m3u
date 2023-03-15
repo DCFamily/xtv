@@ -75,6 +75,9 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="NATURALEZA", Love Nature
 http://177.93.43.85:4080/play/a06h/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="NATURALEZA", Nature Time
+https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/amg00090-blueantllc-naturetimeemea-samsungspain/cb573d177b6c678d9dd43b61cef241826a371fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7753db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad96da0af1c56942943e69c46c8c608b387d2599c12877eec479fc4a396d211d7d28c6afb54e4795a5d732a9cd97fc19d0aee8aa87953f31980a48e349cc1a3db0c58b64251498a87a1dd56de63000db8e31a5a880f8d5b8c70ab66af1baee24fdac6d37783d158d6a077682aa1a7d0e258f4a3dc14988ec4fc0918b5ff19790da93f9a4a4e496d8c0ec925b45d36cf77f4e235c01af3310ff7bcbf86fdb98e4bd309c3caf5a291232482652f8947ab9661da668836f88e5b16554340a28d4684a8ed1e613201d6db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b83a74cf9236c1752f3c12d59445e749fbb355a7e2a9505c1d7cdae265851a2a783af960569496d462079e188d079958acf3e0e56900354075a2457c7549839a54f236903c01dc1a31a7b83125344cbae3c4f557f99cea5fbe9f3ce43b03f9e8fca30213f5674ae7162026bc0bd9956ed32292f2bc240ae92d34ba6a8607524597921fc48/11/848x480_1249336/index.m3u8
+
 
 
 
@@ -143,9 +146,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5
 #EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/pequeradio-tv-en-directo.png" group-title="BEBES", Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="BEBES",Baby tv 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
-
 #EXTINF:-1 tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/3942666/LINEStorePC/main.png" group-title="BEBES", Pinkfong TV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 
@@ -159,7 +159,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="KIDS", Magic Kids TV
-https://vd01.streaminghd.net.ar:3283/stream/play.m3u8
+https://tuvideoonline.com.ar:3937/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="KIDS", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
@@ -168,7 +168,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="KIDS", Dreiko TV
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Nickelodeon#/media/Archivo:NICK2023.png" group-title="KIDS",Nickelodeon SD
+http://200.24.159.165:4848/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="KIDS",Discovery Kids HD
 http://190.131.228.59:8000/play/a0rd/index.m3u8
@@ -183,10 +186,13 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 http://190.131.228.59:8000/play/a0je/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK 2
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK 3
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fit/w_1000%2Ch_723%2Cal_c%2Cq_80/file.jpg" group-title="KIDS", Latino Kids TV
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 
 
