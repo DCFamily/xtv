@@ -149,11 +149,17 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/3942666/LINEStorePC/main.png" group-title="BEBES", Pinkfong TV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="KIDS", Dios TeVe Kids
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="KIDS", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="KIDS", Dios TeVe Kids
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="KIDS", Chiquilines TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/64f382eb-de0d-43b0-b1b3-f790d6473e28/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png" group-title="KIDS", Kids TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/b5bc5315-4dc5-4be9-9fc7-5a8eedc79cfc/2.m3u8
 
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="KIDS", Planeta TV Junior
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
@@ -210,8 +216,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://azxtv.com/aztv.png" group-title="ANIMÉ+GEEK", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq77YBSK/307976254-506223854850744-7009320192702512817-n.png" group-title="ANIMÉ+GEEK", Wowly TV
-https://stream.wowlymedia.com/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.levelup.com/images/logoOG.png" group-title="ANIMÉ+GEEK", Level Up TV
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png" group-title="ANIMÉ+GEEK",BITME
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
