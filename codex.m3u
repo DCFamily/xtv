@@ -170,20 +170,20 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="KIDS", Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="KIDS",Discovery Kids HD
+http://190.131.228.59:8000/play/a0rd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/938/showpage/toontubers/ar/d22e6157d1434ed5892a2ad75f5d44ec.png" group-title="KIDS", CN Toontubers
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="KIDS",Cartoonito SD
-http://177.93.43.85:4080/play/a067/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="KIDS",Discovery Kids HD
-http://190.131.228.59:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/aXQuY2FydG9vbml0b19pY29uXzE2NTY3MTM4ODFfMDU2/icon.png?w=&fakeurl=1" group-title="KIDS", Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
 http://190.131.228.59:8000/play/a0je/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="KIDS",TOONCAST
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK 2
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fit/w_1000%2Ch_723%2Cal_c%2Cq_80/file.jpg" group-title="KIDS", Latino Kids TV
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
