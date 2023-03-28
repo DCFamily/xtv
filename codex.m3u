@@ -105,8 +105,7 @@ http://45.190.13.50:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CULTURA",Investigation Discovery ID
 http://45.190.13.50:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CULTURA",Discovery Civilization
-http://45.190.13.50:8000/play/a039/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="CULTURA",Discovery Theater HD
 http://45.190.13.50:8000/play/a036/index.m3u8
@@ -119,6 +118,11 @@ http://45.190.13.50:8000/play/a035/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/2560px-HGTV_logo.svg.png" group-title="HOGAR Y ESTILO",HGTV
+http://45.190.13.50:8000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="CULTURA",TLC
+http://45.190.13.50:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/640px-Discovery_Family_logo.svg.png" group-title="HOGAR Y ESTILO",Discovery Home & Health HD
 http://45.190.13.50:8000/play/a034/index.m3u8
