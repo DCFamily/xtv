@@ -8,7 +8,7 @@ https://ca2.inka.net.pe/bestcable/playlist.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL",Panamericana TV
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+http://45.190.13.50:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://grupocentroserver.com/wp-content/uploads/2021/05/162646471_807019323354444_855956618676763794_n-1024x1024.jpg" group-title="NACIONAL", Fuego TV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
@@ -141,8 +141,8 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 ,El Gourmet SD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
+#EXTINF:-1,El Gourmet HD
+http://170.254.234.244:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtv.studio/wp-content/uploads/2020/08/Tastemade-logo.png" group-title="COCINA", Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
@@ -317,12 +317,18 @@ http://45.190.13.50:8002/play/a003/index.m3u8
 http://45.190.13.50:8003/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN HD
-http://45.190.13.50:8002/play/a01j/index.m3u8
+http://170.254.234.244:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN HD
+http://45.190.13.50:8002/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN 2 HD
 http://45.190.13.50:8002/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN 2 HD
+http://170.254.234.244:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN 3 HD
 http://45.190.13.50:8002/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN 3 HD
@@ -330,9 +336,6 @@ http://45.190.13.50:8002/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN 4 HD
 http://45.190.13.50:8002/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES",ESPN MEX HD
-http://45.190.13.50:8002/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES",ESPN Extra
 http://45.190.13.50:8002/play/a01e/index.m3u8
@@ -345,6 +348,12 @@ http://45.190.13.50:8002/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",Fox Sport 3 HD
 http://45.190.13.50:8002/play/a01o/index.m3u8
+
+#EXTINF:-1,GOLPERU HD
+http://170.254.234.244:8000/play/a05w/index.m3u8
+
+#EXTINF:-1,GolTV HD
+http://170.254.234.244:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" group-title="DEPORTES", BEIN SPORTS EXTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
@@ -366,6 +375,9 @@ http://45.190.13.50:8003/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT HD
 http://45.190.13.50:8003/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT2 HD
+http://170.254.234.244:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT Series HD
 http://45.190.13.50:8003/play/a02x/index.m3u8
