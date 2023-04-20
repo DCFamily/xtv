@@ -20,7 +20,7 @@ http://170.254.234.244:8000/play/a020/index.m3u8
 http://45.190.13.50:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="NACIONAL", Visión SUR HD
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3u8?nimblesessionid=1729682
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_2yptRX0C/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5Zhdbo.png" group-title="NACIONAL",Sumac TV
 https://vps1.lnx.pe/sumactv-web/envivo/playlist.m3u8
