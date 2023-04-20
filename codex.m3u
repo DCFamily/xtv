@@ -1,7 +1,10 @@
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" group-title="NACIONAL", BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png" group-title="NACIONAL", Best Cable TV
+#EXTINF:-1,Latina HD
+http://45.161.115.26:50000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-r_EEm0TtFu8/Xzxu8rn6gyI/AAAAAAAA4qI/fb1q5qflg60m7lP8CQK0zfpMbGxSF4JjACK8BGAsYHg/s0/2020-08-18.png" group-title="NACIONAL", Best TV
 https://ca2.inka.net.pe/BesTv-0011200001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Mesa-de-trabajo-16logo-infa-2048x585.png" group-title="NACIONAL", CablePerú TV
@@ -9,6 +12,9 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://ii.ct-stc.com/3/logos/empresas/2021/10/15/cable-vision-peru--912FA9873FECD7B0182915thumbnail.png" group-title="NACIONAL", Cable Visión TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+
+#EXTINF:-1,America TV HD
+http://170.254.234.244:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="NACIONAL",Panamericana TV
 http://45.190.13.50:8000/play/a042/index.m3u8
@@ -20,22 +26,25 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3
 https://vps1.lnx.pe/sumactv-web/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="NACIONAL", ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="NACIONAL", ATV+
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="NACIONAL", Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL", TV Perú
+https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL", TV Perú Noticias
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="NACIONAL", TV Perú Internacional
+https://cdnh74.iblups.com/hls/irtp.m3u8
+
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/n6uwJAC.png" group-title="NACIONAL",Trivu TV
 https://servilive.com:3244/live/trivutvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YbyjNgU.png" group-title="NACIONAL",Nacional TV [NO 24/7]
-https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/elementor/thumbs/x-tv-web-1-petnx00xagwqa1c22yd7q11m7re1gdrenujnh9kglg.png" group-title="NACIONAL / PROVINCIA",X TV (Jaen)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
@@ -45,9 +54,6 @@ https://servilive.com:3079/live/cdnatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/05/footer.png" group-title="NACIONAL / PROVINCIA",Mega TV (Jaen)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyzvypdv/logolotv2.png" group-title="NACIONAL / PROVINCIA", LotPlus TV (Chiclayo)
-https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://publicacion.cloudapp.net/images/portafolio/Cosmos.png" group-title="NACIONAL", TV Cosmos (La Libertad)
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
@@ -63,9 +69,6 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ced9b0fa2a3cca58bcc8b85fe70f21df.png" group-title="NACIONAL", San Juanera TV (Moyobamba)
 https://live.obslivestream.com/sanjuanera/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/13/bf/53/13bf538f-2575-78da-9b63-2dba391ba905/source/512x512bb.jpg" group-title="NACIONAL", Oriental TV (Pucallpa)
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcz2x0yjhbI/XoKGofB5-FI/AAAAAAAAxWI/uOpqPe2IAvYhQQB_eagNDahP2rtxSLF-QCK8BGAsYHg/s0/2020-03-30.png" group-title="NACIONAL", Via Television (Tarapoto)
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
@@ -124,7 +127,7 @@ https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="NATURALEZA", Love Nature
-http://177.93.43.85:4080/play/a06h/index.m3u8
+http://170.254.234.244:8000/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="NATURALEZA", Nature Time
 https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/amg00090-blueantllc-naturetimeemea-samsungspain/cb573d177b6c678d9dd43b61cef241826a371fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7753db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad96da0af1c56942943e69c46c8c608b387d2599c12877eec479fc4a396d211d7d28c6afb54e4795a5d732a9cd97fc19d0aee8aa87953f31980a48e349cc1a3db0c58b64251498a87a1dd56de63000db8e31a5a880f8d5b8c70ab66af1baee24fdac6d37783d158d6a077682aa1a7d0e258f4a3dc14988ec4fc0918b5ff19790da93f9a4a4e496d8c0ec925b45d36cf77f4e235c01af3310ff7bcbf86fdb98e4bd309c3caf5a291232482652f8947ab9661da668836f88e5b16554340a28d4684a8ed1e613201d6db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b83a74cf9236c1752f3c12d59445e749fbb355a7e2a9505c1d7cdae265851a2a783af960569496d462079e188d079958acf3e0e56900354075a2457c7549839a54f236903c01dc1a31a7b83125344cbae3c4f557f99cea5fbe9f3ce43b03f9e8fca30213f5674ae7162026bc0bd9956ed32292f2bc240ae92d34ba6a8607524597921fc48/11/848x480_1249336/index.m3u8
@@ -190,16 +193,24 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="HOGAR Y ESTILO", Hola TV Play
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1,Sun Channel HD
+http://45.161.115.26:50000/play/a007/index.m3u8
+
 
 
 #EXTINF:-1,El Gourmet HD
 http://170.254.234.244:8000/play/a01y/index.m3u8
+
+#EXTINF:-1,Food Network HD
+http://45.161.115.26:50000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vtv.studio/wp-content/uploads/2020/08/Tastemade-logo.png" group-title="COCINA", Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="COCINA",Hells Kitchen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESBC1700001QI_20220511T011726.png" group-title="NOVELAS",Vive Kanal D Drama
@@ -209,12 +220,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png" group-title="NOVELAS",Canal De Las Estrellas 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+http://170.254.234.244:8000/play/a068/index.m3u8
+
+#EXTINF:-1,Pasiones HD
+http://170.254.234.244:8000/play/a01l/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="COMEDIA",DISTRITO COMEDIA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+#EXTINF:-1,Comedy Central HD
+http://170.254.234.244:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="COMEDIA",Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -435,7 +449,7 @@ http://45.190.13.50:8003/play/a025/index.m3u8
 http://45.190.13.50:8002/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Space HD
-http://45.190.13.50:8003/play/a02v/index.m3u8
+http://170.254.234.244:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Syfy HD
 http://45.190.13.50:8003/play/a01z/index.m3u8
@@ -698,3 +712,6 @@ http://45.190.13.50:8003/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="114053" tvg-name="TOP Latino TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA", TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+
+#EXTINF:-1,Stingray Concerts HD
+http://45.161.115.26:50000/play/a011/index.m3u8
