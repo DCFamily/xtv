@@ -34,25 +34,16 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="NACIONAL", Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL", TV Perú
-https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NACIONAL", TV Perú Noticias
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="NACIONAL", TV Perú Internacional
-https://cdnh74.iblups.com/hls/irtp.m3u8
-
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/n6uwJAC.png" group-title="NACIONAL",Trivu TV
 https://servilive.com:3244/live/trivutvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/elementor/thumbs/x-tv-web-1-petnx00xagwqa1c22yd7q11m7re1gdrenujnh9kglg.png" group-title="NACIONAL / PROVINCIA",X TV (Jaen)
+#EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/elementor/thumbs/x-tv-web-1-petnx00xagwqa1c22yd7q11m7re1gdrenujnh9kglg.png" group-title="NACIONALA",X TV (Jaen)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/05/footer.png" group-title="NACIONAL / PROVINCIA",Cadena TV (Jaen)
+#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/05/footer.png" group-title="NACIONAL",Cadena TV (Jaen)
 https://servilive.com:3079/live/cdnatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/05/footer.png" group-title="NACIONAL / PROVINCIA",Mega TV (Jaen)
+#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/05/footer.png" group-title="NACIONAL",Mega TV (Jaen)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="http://publicacion.cloudapp.net/images/portafolio/Cosmos.png" group-title="NACIONAL", TV Cosmos (La Libertad)
@@ -108,8 +99,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="NOTICIAS",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,CNN ESPAÑOL group-title="NOTICIAS",CNN ESPAÑOL SD
-http://190.131.228.59:8000/play/a052/index.m3u8
+#EXTINF:-1,CNN ESPAÑOL group-title="NOTICIAS",CNN ESPAÑOL
+http://181.224.161.138:1010/play/a051/index.m3u8
 
 
 
@@ -154,7 +145,7 @@ http://45.190.13.50:8000/play/a031/index.m3u8
 http://45.190.13.50:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Discovery_Science_LA_2011.png" group-title="CULTURA",Discovery Science
-http://45.190.13.50:8000/play/a038/index.m3u8
+http://190.83.119.67:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CULTURA",Investigation Discovery ID
 http://45.190.13.50:8000/play/a033/index.m3u8
@@ -175,8 +166,11 @@ http://45.190.13.50:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/2560px-HGTV_logo.svg.png" group-title="HOGAR Y ESTILO",HGTV
 http://45.190.13.50:8000/play/a039/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/2560px-HGTV_logo.svg.png" group-title="HOGAR Y ESTILO",HGTV2
+http://190.61.101.9:9000/play/a00e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="CULTURA",TLC
-http://45.190.13.50:8000/play/a03u/index.m3u8
+http://181.224.161.138:1010/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/640px-Discovery_Family_logo.svg.png" group-title="HOGAR Y ESTILO",Discovery Home & Health HD
 http://45.190.13.50:8000/play/a034/index.m3u8
@@ -204,7 +198,7 @@ http://170.254.234.244:8000/play/a01y/index.m3u8
 #EXTINF:-1,Food Network HD
 http://45.161.115.26:50000/play/a012/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vtv.studio/wp-content/uploads/2020/08/Tastemade-logo.png" group-title="COCINA", Tastemade
+#EXTINF:-1 tvg-logo="https://vtv.studio/wp-content/uploads/2020/08/Tastemade-logo.png" group-title="COCINA",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="COCINA",Hells Kitchen
@@ -251,20 +245,11 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="KIDS", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="KIDS", Chiquilines TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/64f382eb-de0d-43b0-b1b3-f790d6473e28/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png" group-title="KIDS", Kids TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/b5bc5315-4dc5-4be9-9fc7-5a8eedc79cfc/2.m3u8
-
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="KIDS", Planeta TV Junior
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg" group-title="KIDS", Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="KIDS", Magic Kids TV
-https://tuvideoonline.com.ar:3937/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="KIDS", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
@@ -318,9 +303,6 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="ANIMÉ+GEEK",Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png" group-title="ANIMÉ+GEEK",Pluto TV Anime Héroes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="ANIMÉ+GEEK", Anime Station
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8?WebM3UCL
 
@@ -367,6 +349,9 @@ http://45.190.13.50:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",D Sports+ 
 http://45.190.13.50:8000/play/a03x/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",D Sports Fight
+http://190.119.178.46:8000/play/a036/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN
 http://45.190.13.50:8002/play/a003/index.m3u8
 
@@ -412,6 +397,9 @@ http://170.254.234.244:8000/play/a05w/index.m3u8
 #EXTINF:-1,GolTV HD
 http://170.254.234.244:8000/play/a05q/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a052.png" group-title="DEPORTES",BEIN SPORTS Ñ
+http://45.5.118.226:8000/play/a052/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA.png" group-title="DEPORTES", BEIN SPORTS EXTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
@@ -439,11 +427,17 @@ http://170.254.234.244:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT Series HD
 http://45.190.13.50:8003/play/a02x/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Lifetime
+http://191.98.171.198:4000/play/a03v/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Star Channel HD
 http://45.190.13.50:8003/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Warner HD
 http://45.190.13.50:8003/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TBS Very Funny HD
+http://181.78.18.106:8083/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Atres Series
 http://45.190.13.50:8002/play/a014/index.m3u8
@@ -458,10 +452,10 @@ http://45.190.13.50:8003/play/a01z/index.m3u8
 http://45.190.13.50:8003/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Studio Universal HD
-http://45.190.13.50:8003/play/a01y/index.m3u8
+http://170.254.234.244:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Universal
-http://45.190.13.50:8003/play/a02y/index.m3u8
+http://181.78.18.106:8083/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Universal Cinema HD
 http://45.190.13.50:8003/play/a01v/index.m3u8
